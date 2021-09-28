@@ -5,7 +5,7 @@
 
 ### 数组&双指针
 
-[1. LeetCode 1. 两数之和](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/1.%E6%95%B0%E7%BB%84%26%E5%8F%8C%E6%8C%87%E9%92%88/A_TwoSum.java)
+1. [LeetCode 1. 两数之和](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/1.%E6%95%B0%E7%BB%84%26%E5%8F%8C%E6%8C%87%E9%92%88/A_TwoSum.java)
 2. LeetCode 4. 寻找两个正序数组的中位数
 3. LeetCode 15. 三数之和
 4. LeetCode 75. 颜色分类
