@@ -16,7 +16,19 @@
 
 ### 2、链表
 
-1. LeetCode 19. 删除链表的倒数第 N 个结点
-2. LeetCode 148. 排序链表
-3. LeetCode 160. 相交链表
-4. LeetCode 206. 反转链表 
+1. [LeetCode 19. 删除链表的倒数第 N 个结点](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/2.%E9%93%BE%E8%A1%A8/A_removeNthFromEnd.java)
+2. [LeetCode 148. 排序链表](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/2.%E9%93%BE%E8%A1%A8/B_sortList.java)
+3. [LeetCode 160. 相交链表](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/2.%E9%93%BE%E8%A1%A8/C_getIntersectionNode.java)
+4. [LeetCode 206. 反转链表](https://github.com/xzd9476/LeetcodeAnswer/blob/dev/2.%E9%93%BE%E8%A1%A8/D_reverseList.java)
+
+### 3、队列 & 栈
+
+1. [LeetCode 20. 有效的括号]
+2. [LeetCode 21. 合并两个有序链表]
+3. [LeetCode 84. 柱状图中最大的矩形]
+4. [LeetCode 85. 最大矩形]
+5. [LeetCode 155. 最小栈]
+6. [LeetCode 239. 滑动窗口最大值]
+7. [LeetCode 394. 字符串解码]
+8. [LeetCode 739. 每日温度]
+9. [LeetCode 3. 无重复字符的最长子串]
