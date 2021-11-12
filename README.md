@@ -32,3 +32,10 @@
 7. [LeetCode 394. 字符串解码](https://github.com/xzd9476/LeetcodeAnswer/blob/main/3.%E9%98%9F%E5%88%97%26%E6%A0%88/G_decodeString.java)
 8. [LeetCode 739. 每日温度](https://github.com/xzd9476/LeetcodeAnswer/blob/main/3.%E9%98%9F%E5%88%97%26%E6%A0%88/H_dailyTemperatures.java)
 9. [LeetCode 3. 无重复字符的最长子串](https://github.com/xzd9476/LeetcodeAnswer/blob/main/3.%E9%98%9F%E5%88%97%26%E6%A0%88/I_lengthOfLongestSubstring.java)
+
+### 4、哈希表
+1. [LeetCode 49. 字母异位词分组](https://www.baidu.com)
+2. [LeetCode 128. 最长连续序列](https://www.baidu.com)
+3. [LeetCode 141. 环形链表](https://www.baidu.com)
+4. [LeetCode 146. LRU 缓存机制](https://www.baidu.com)
+5. [LeetCode 560. 和为K的子数组](https://www.baidu.com)
